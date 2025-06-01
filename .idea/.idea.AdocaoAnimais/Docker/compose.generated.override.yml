@@ -1,0 +1,21 @@
+# This is a generated file. Not intended for manual editing.
+services:
+  adocaoanimais.api:
+    build:
+      context: "C:\\Users\\Nicolas\\Documents\\Projetos\\AdocaoAnimais"
+      dockerfile: "AdocaoAnimais.API/Dockerfile"
+      target: "base"
+    command: []
+    entrypoint:
+    - "dotnet"
+    - "/app/bin/Debug/net9.0/AdocaoAnimais.API.dll"
+    environment:
+      ASPNETCORE_ENVIRONMENT: "Development"
+      DOTNET_USE_POLLING_FILE_WATCHER: "true"
+    image: "adocaoanimais.api:dev"
+    ports: []
+    volumes:
+    - "C:\\Users\\Nicolas\\Documents\\Projetos\\AdocaoAnimais\\AdocaoAnimais.API:/app:rw"
+    - "C:\\Users\\Nicolas\\Documents\\Projetos\\AdocaoAnimais:/src:rw"
+    - "C:\\Users\\Nicolas\\.nuget\\packages:/home/app/.nuget/packages"
+    working_dir: "/app"

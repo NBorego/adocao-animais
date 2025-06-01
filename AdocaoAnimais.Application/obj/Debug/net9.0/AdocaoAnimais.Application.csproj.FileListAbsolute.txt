@@ -1,0 +1,15 @@
+C:\Users\Nicolas\Documents\Projetos\AdocaoAnimais\AdocaoAnimais.Application\bin\Debug\net9.0\AdocaoAnimais.Application.deps.json
+C:\Users\Nicolas\Documents\Projetos\AdocaoAnimais\AdocaoAnimais.Application\bin\Debug\net9.0\AdocaoAnimais.Application.dll
+C:\Users\Nicolas\Documents\Projetos\AdocaoAnimais\AdocaoAnimais.Application\bin\Debug\net9.0\AdocaoAnimais.Application.pdb
+C:\Users\Nicolas\Documents\Projetos\AdocaoAnimais\AdocaoAnimais.Application\bin\Debug\net9.0\AdocaoAnimais.Domain.dll
+C:\Users\Nicolas\Documents\Projetos\AdocaoAnimais\AdocaoAnimais.Application\bin\Debug\net9.0\AdocaoAnimais.Domain.pdb
+C:\Users\Nicolas\Documents\Projetos\AdocaoAnimais\AdocaoAnimais.Application\obj\Debug\net9.0\AdocaoAnimais.Application.csproj.AssemblyReference.cache
+C:\Users\Nicolas\Documents\Projetos\AdocaoAnimais\AdocaoAnimais.Application\obj\Debug\net9.0\AdocaoAnimais.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas\Documents\Projetos\AdocaoAnimais\AdocaoAnimais.Application\obj\Debug\net9.0\AdocaoAnimais.Application.AssemblyInfoInputs.cache
+C:\Users\Nicolas\Documents\Projetos\AdocaoAnimais\AdocaoAnimais.Application\obj\Debug\net9.0\AdocaoAnimais.Application.AssemblyInfo.cs
+C:\Users\Nicolas\Documents\Projetos\AdocaoAnimais\AdocaoAnimais.Application\obj\Debug\net9.0\AdocaoAnimais.Application.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Documents\Projetos\AdocaoAnimais\AdocaoAnimais.Application\obj\Debug\net9.0\AdocaoAn.46911D5B.Up2Date
+C:\Users\Nicolas\Documents\Projetos\AdocaoAnimais\AdocaoAnimais.Application\obj\Debug\net9.0\AdocaoAnimais.Application.dll
+C:\Users\Nicolas\Documents\Projetos\AdocaoAnimais\AdocaoAnimais.Application\obj\Debug\net9.0\refint\AdocaoAnimais.Application.dll
+C:\Users\Nicolas\Documents\Projetos\AdocaoAnimais\AdocaoAnimais.Application\obj\Debug\net9.0\AdocaoAnimais.Application.pdb
+C:\Users\Nicolas\Documents\Projetos\AdocaoAnimais\AdocaoAnimais.Application\obj\Debug\net9.0\ref\AdocaoAnimais.Application.dll

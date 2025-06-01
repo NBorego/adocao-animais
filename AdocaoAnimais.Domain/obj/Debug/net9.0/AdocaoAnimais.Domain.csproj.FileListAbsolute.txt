@@ -1,0 +1,11 @@
+C:\Users\Nicolas\Documents\Projetos\AdocaoAnimais\AdocaoAnimais.Domain\bin\Debug\net9.0\AdocaoAnimais.Domain.deps.json
+C:\Users\Nicolas\Documents\Projetos\AdocaoAnimais\AdocaoAnimais.Domain\bin\Debug\net9.0\AdocaoAnimais.Domain.dll
+C:\Users\Nicolas\Documents\Projetos\AdocaoAnimais\AdocaoAnimais.Domain\bin\Debug\net9.0\AdocaoAnimais.Domain.pdb
+C:\Users\Nicolas\Documents\Projetos\AdocaoAnimais\AdocaoAnimais.Domain\obj\Debug\net9.0\AdocaoAnimais.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas\Documents\Projetos\AdocaoAnimais\AdocaoAnimais.Domain\obj\Debug\net9.0\AdocaoAnimais.Domain.AssemblyInfoInputs.cache
+C:\Users\Nicolas\Documents\Projetos\AdocaoAnimais\AdocaoAnimais.Domain\obj\Debug\net9.0\AdocaoAnimais.Domain.AssemblyInfo.cs
+C:\Users\Nicolas\Documents\Projetos\AdocaoAnimais\AdocaoAnimais.Domain\obj\Debug\net9.0\AdocaoAnimais.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Documents\Projetos\AdocaoAnimais\AdocaoAnimais.Domain\obj\Debug\net9.0\AdocaoAnimais.Domain.dll
+C:\Users\Nicolas\Documents\Projetos\AdocaoAnimais\AdocaoAnimais.Domain\obj\Debug\net9.0\refint\AdocaoAnimais.Domain.dll
+C:\Users\Nicolas\Documents\Projetos\AdocaoAnimais\AdocaoAnimais.Domain\obj\Debug\net9.0\AdocaoAnimais.Domain.pdb
+C:\Users\Nicolas\Documents\Projetos\AdocaoAnimais\AdocaoAnimais.Domain\obj\Debug\net9.0\ref\AdocaoAnimais.Domain.dll

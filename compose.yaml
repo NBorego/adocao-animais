@@ -1,0 +1,10 @@
+﻿services:
+  adocaoanimais.api:
+    image: adocaoanimais.api
+    build:
+      context: .
+      dockerfile: AdocaoAnimais.API/Dockerfile
+    volumes:
+      - ./AdocaoAnimais.API/adocaodb.sqlite:/app/adocaodb.sqlite
+    ports:
+      - "8080:8080"

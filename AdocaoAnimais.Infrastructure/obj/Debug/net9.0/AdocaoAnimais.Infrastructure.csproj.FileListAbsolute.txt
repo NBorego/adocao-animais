@@ -1,0 +1,17 @@
+C:\Users\Nicolas\Documents\Projetos\AdocaoAnimais\AdocaoAnimais.Infrastructure\bin\Debug\net9.0\AdocaoAnimais.Infrastructure.deps.json
+C:\Users\Nicolas\Documents\Projetos\AdocaoAnimais\AdocaoAnimais.Infrastructure\bin\Debug\net9.0\AdocaoAnimais.Infrastructure.runtimeconfig.json
+C:\Users\Nicolas\Documents\Projetos\AdocaoAnimais\AdocaoAnimais.Infrastructure\bin\Debug\net9.0\AdocaoAnimais.Infrastructure.dll
+C:\Users\Nicolas\Documents\Projetos\AdocaoAnimais\AdocaoAnimais.Infrastructure\bin\Debug\net9.0\AdocaoAnimais.Infrastructure.pdb
+C:\Users\Nicolas\Documents\Projetos\AdocaoAnimais\AdocaoAnimais.Infrastructure\bin\Debug\net9.0\AdocaoAnimais.Domain.dll
+C:\Users\Nicolas\Documents\Projetos\AdocaoAnimais\AdocaoAnimais.Infrastructure\bin\Debug\net9.0\AdocaoAnimais.Domain.pdb
+C:\Users\Nicolas\Documents\Projetos\AdocaoAnimais\AdocaoAnimais.Infrastructure\obj\Debug\net9.0\AdocaoAnimais.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Nicolas\Documents\Projetos\AdocaoAnimais\AdocaoAnimais.Infrastructure\obj\Debug\net9.0\AdocaoAnimais.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas\Documents\Projetos\AdocaoAnimais\AdocaoAnimais.Infrastructure\obj\Debug\net9.0\AdocaoAnimais.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Nicolas\Documents\Projetos\AdocaoAnimais\AdocaoAnimais.Infrastructure\obj\Debug\net9.0\AdocaoAnimais.Infrastructure.AssemblyInfo.cs
+C:\Users\Nicolas\Documents\Projetos\AdocaoAnimais\AdocaoAnimais.Infrastructure\obj\Debug\net9.0\AdocaoAnimais.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Documents\Projetos\AdocaoAnimais\AdocaoAnimais.Infrastructure\obj\Debug\net9.0\AdocaoAn.4D074707.Up2Date
+C:\Users\Nicolas\Documents\Projetos\AdocaoAnimais\AdocaoAnimais.Infrastructure\obj\Debug\net9.0\AdocaoAnimais.Infrastructure.dll
+C:\Users\Nicolas\Documents\Projetos\AdocaoAnimais\AdocaoAnimais.Infrastructure\obj\Debug\net9.0\refint\AdocaoAnimais.Infrastructure.dll
+C:\Users\Nicolas\Documents\Projetos\AdocaoAnimais\AdocaoAnimais.Infrastructure\obj\Debug\net9.0\AdocaoAnimais.Infrastructure.pdb
+C:\Users\Nicolas\Documents\Projetos\AdocaoAnimais\AdocaoAnimais.Infrastructure\obj\Debug\net9.0\AdocaoAnimais.Infrastructure.genruntimeconfig.cache
+C:\Users\Nicolas\Documents\Projetos\AdocaoAnimais\AdocaoAnimais.Infrastructure\obj\Debug\net9.0\ref\AdocaoAnimais.Infrastructure.dll

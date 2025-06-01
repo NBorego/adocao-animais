@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdocaoAnimais.API", "AdocaoAnimais.API\AdocaoAnimais.API.csproj", "{F4416194-396D-4A9F-B85D-3C33BD79D628}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdocaoAnimais.Domain", "AdocaoAnimais.Domain\AdocaoAnimais.Domain.csproj", "{4C6E3990-CDE3-4AC0-A1C5-38B18B67E6C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdocaoAnimais.Infrastructure", "AdocaoAnimais.Infrastructure\AdocaoAnimais.Infrastructure.csproj", "{46C80B4D-28AC-47CE-B7C9-A575D970B508}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdocaoAnimais.Application", "AdocaoAnimais.Application\AdocaoAnimais.Application.csproj", "{CEF9817B-ABAA-49E0-B1BD-933697B11DC3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0552A128-BE62-4242-A0D2-6FE896A238B6}"
+	ProjectSection(SolutionItems) = preProject
+		compose.yaml = compose.yaml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4416194-396D-4A9F-B85D-3C33BD79D628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4416194-396D-4A9F-B85D-3C33BD79D628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4416194-396D-4A9F-B85D-3C33BD79D628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4416194-396D-4A9F-B85D-3C33BD79D628}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C6E3990-CDE3-4AC0-A1C5-38B18B67E6C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C6E3990-CDE3-4AC0-A1C5-38B18B67E6C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C6E3990-CDE3-4AC0-A1C5-38B18B67E6C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C6E3990-CDE3-4AC0-A1C5-38B18B67E6C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46C80B4D-28AC-47CE-B7C9-A575D970B508}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46C80B4D-28AC-47CE-B7C9-A575D970B508}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46C80B4D-28AC-47CE-B7C9-A575D970B508}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46C80B4D-28AC-47CE-B7C9-A575D970B508}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEF9817B-ABAA-49E0-B1BD-933697B11DC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEF9817B-ABAA-49E0-B1BD-933697B11DC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEF9817B-ABAA-49E0-B1BD-933697B11DC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEF9817B-ABAA-49E0-B1BD-933697B11DC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
